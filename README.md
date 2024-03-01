@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @de-virtualized
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning about Reverse Engineering
+- 💞️ I’m looking to collaborate on interesting projects
